@@ -1,6 +1,5 @@
 /*
 ^https://app.bilibili.com/x/v2/feed/index\?access_key url script-response-body surgebilibilifeed.js
-@supported 96440338D30B
 
 
 let body = $response.body
